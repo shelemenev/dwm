@@ -9,9 +9,9 @@ static const char *fonts[]          = { "Terminus:size=12" };
 static const char dmenufont[]       = "Terminus:size=12";
 static const char col_gray1[]       = "#191919";
 static const char col_gray2[]       = "#cb4b16";
-static const char col_gray3[]       = "#2aa198";
-static const char col_gray4[]       = "#cb4b16";
-static const char col_cyan[]        = "#2aa198";
+static const char col_gray3[]       = "#ffcc00";
+static const char col_gray4[]       = "#dd6600";
+static const char col_cyan[]        = "#191919";
 static const char col_orange[]      = "#dd6600";
 static const char col_yellow[]      = "#ffcc00";
 static const char *colors[][3]      = {
